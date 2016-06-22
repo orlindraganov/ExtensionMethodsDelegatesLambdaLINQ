@@ -1,0 +1,6 @@
+C:\TACSharpExam1\ExtensionMethodsDelegatesLambdaLINQ\HomeWork\bin\Debug\HomeWork.exe.config
+C:\TACSharpExam1\ExtensionMethodsDelegatesLambdaLINQ\HomeWork\bin\Debug\HomeWork.exe
+C:\TACSharpExam1\ExtensionMethodsDelegatesLambdaLINQ\HomeWork\bin\Debug\HomeWork.pdb
+C:\TACSharpExam1\ExtensionMethodsDelegatesLambdaLINQ\HomeWork\obj\Debug\HomeWork.csprojResolveAssemblyReference.cache
+C:\TACSharpExam1\ExtensionMethodsDelegatesLambdaLINQ\HomeWork\obj\Debug\HomeWork.exe
+C:\TACSharpExam1\ExtensionMethodsDelegatesLambdaLINQ\HomeWork\obj\Debug\HomeWork.pdb
