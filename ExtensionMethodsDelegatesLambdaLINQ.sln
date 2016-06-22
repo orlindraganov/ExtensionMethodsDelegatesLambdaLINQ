@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Extensions", "HomeWork\1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Students", "Students\2.Students.csproj", "{1517CF05-1F95-4BF0-B48B-84242ED65387}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.DisibileBy7And3", "DisibileBy7And3\6.DisibileBy7And3.csproj", "{2DB5B288-B779-4930-A70D-9E9192B13240}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.Timer", "Timer\7.Timer.csproj", "{F77194E3-B2A5-4887-B79B-7087CE461FFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{1517CF05-1F95-4BF0-B48B-84242ED65387}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1517CF05-1F95-4BF0-B48B-84242ED65387}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1517CF05-1F95-4BF0-B48B-84242ED65387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DB5B288-B779-4930-A70D-9E9192B13240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB5B288-B779-4930-A70D-9E9192B13240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB5B288-B779-4930-A70D-9E9192B13240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB5B288-B779-4930-A70D-9E9192B13240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F77194E3-B2A5-4887-B79B-7087CE461FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F77194E3-B2A5-4887-B79B-7087CE461FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F77194E3-B2A5-4887-B79B-7087CE461FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F77194E3-B2A5-4887-B79B-7087CE461FFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

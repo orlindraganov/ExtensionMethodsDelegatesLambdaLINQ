@@ -1,65 +1,53 @@
 ﻿namespace Students.Models
 {
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
-
     public class Group
     {
         #region Fields
-        private string groupNumber;
-        private IEnumerable<Student> students;
-        private double averageMark;
+        private int groupNumber;
+        private string departmentName;
         #endregion
 
         #region Properties
-        public string GroupNumber
+        public int GroupNumber
         {
             get
             {
                 return this.groupNumber;
             }
-            private set
+            set
             {
                 this.groupNumber = value;
             }
         }
 
-        public IEnumerable<Student> Students
+        public string DepartmentName
         {
             get
             {
-                return this.students;
+                return this.departmentName;
             }
             set
             {
-                this.students = value;
-            }
-        }
-        public double AverageMark
-        {
-            get
-            {
-                return this.averageMark;
-            }
-            set
-            {
-                this.averageMark = value;
+                this.departmentName = value;
             }
         }
         #endregion
 
         #region Constructors
-        public Group(string groupNumber, IEnumerable<Student> students, double averageMark)
+        public Group(int groupNumber, string departmentName)
         {
             this.GroupNumber = groupNumber;
-            this.Students = students;
-            this.AverageMark = averageMark;
+            this.DepartmentName = departmentName;
         }
         #endregion
 
+        #region Methods
 
+        public override string ToString()
+        {
+            return $"{this.GroupNumber} {this.DepartmentName}";
+        }
+
+        #endregion
     }
 }
